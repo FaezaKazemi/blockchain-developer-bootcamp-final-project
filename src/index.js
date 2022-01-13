@@ -1,5 +1,9 @@
 import Web3 from "web3";
+<<<<<<< HEAD
 import LandContract from "../../build/contracts/RealEstateContract.json";
+=======
+import LandContract from "../build/contracts/RealEstateContract.json";
+>>>>>>> 6b562412f815fd20e39a07ae51d730066a686223
 const App = {
   web3: null,
   account: null,
@@ -80,4 +84,8 @@ window.addEventListener("load", async function() {
 
   App.start();
 });
+<<<<<<< HEAD
 export default { App };
+=======
+export default { App };
+>>>>>>> 6b562412f815fd20e39a07ae51d730066a686223

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6b562412f815fd20e39a07ae51d730066a686223
 <template>
 <div id="app2" :style="dynamicColor" @dblclick="toggleHoverEffect">
     <div id="card">
