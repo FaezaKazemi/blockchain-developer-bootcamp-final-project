@@ -1,5 +1,5 @@
 import Web3 from "web3";
-import LandContract from "../../build/contracts/RealEstateContract.json";
+import LandContract from "../build/contracts/RealEstateContract.json";
 const App = {
   web3: null,
   account: null,
