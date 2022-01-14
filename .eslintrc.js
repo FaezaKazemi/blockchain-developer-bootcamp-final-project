@@ -12,5 +12,3 @@ module.exports = {
     "no-debugger": process.env.NODE_ENV === "production" ? "warn" : "off"
   }
 };
-© 2022 GitHub, Inc.
-Terms

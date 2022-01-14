@@ -57,8 +57,4 @@ const router = new VueRouter({
   routes
 });
 
-<<<<<<< HEAD
 export default router;
-=======
-export default router;
->>>>>>> 6b562412f815fd20e39a07ae51d730066a686223
